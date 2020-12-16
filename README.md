@@ -1,5 +1,5 @@
 
-##Documentation of the COVID React Project
+## Documentation of the COVID React Project
 
 In this project, I used public COVID API for taking the number of deaths, the number of infected, and the number of recovered people in the world. In this, I am representing the data through Reactjs.Charts for visualization.
 
